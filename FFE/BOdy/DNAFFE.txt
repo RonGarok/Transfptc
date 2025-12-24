@@ -1,0 +1,14 @@
+ADN_Logique {
+    Séquences
+    Variants
+    PourcentageIntégrité
+    Sources {
+        Cheveux
+        Cellules
+        Traces
+    }
+    Reconstruction {
+        Méthode
+        PartiesEstimées
+    }
+}
