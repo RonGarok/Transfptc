@@ -1,0 +1,10 @@
+Organes {
+    Cœur { Position, Taille, Paramètres }
+    Poumons { ... }
+    Foie { ... }
+    Reins { ... }
+    Estomac { ... }
+    Peau { Surface, Épaisseur, Pigmentation }
+    SystèmeNerveuxPériphérique { ... }
+    SystèmeMusculaire { ... }
+}
