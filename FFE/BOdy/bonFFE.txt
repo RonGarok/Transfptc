@@ -1,0 +1,16 @@
+Squelette {
+    Os[] {
+        Nom
+        Position
+        Rotation
+        Longueur
+        Densité
+        Métadonnées
+    }
+    Articulations[] {
+        Type
+        OsA
+        OsB
+        Amplitude
+    }
+}
