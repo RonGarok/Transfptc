@@ -1,0 +1,9 @@
+FFE_Corps {
+    IdentitéCorps { ... }
+    Morphologie { ... }
+    Squelette { ... }
+    Organes { ... }
+    ADN_Logique { ... }
+    ParamètresPhysiques { ... }
+    IntégritéCorps { ... }
+}
