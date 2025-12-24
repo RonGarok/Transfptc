@@ -1,0 +1,6 @@
+IdentitéCorps {
+    CorpsID
+    Version
+    HashGlobalCorps
+    Métadonnées
+}
