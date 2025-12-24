@@ -1,0 +1,8 @@
+ParamètresPhysiques {
+    CouleurPeau
+    CouleurYeux
+    CouleurCheveux
+    EmpreintesDigitales
+    EmpreintesRétiniennes
+    MarquesParticulières
+}
