@@ -1,0 +1,12 @@
+IntégritéCorps {
+    HashSections {
+        Morphologie
+        Squelette
+        Organes
+        ADN_Logique
+        ParamètresPhysiques
+    }
+    Signatures
+    Redondance
+    JournalCorps
+}
