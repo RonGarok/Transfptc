@@ -1,0 +1,28 @@
+Être {
+    Identité {
+        UUID
+        HashGlobal
+        Métadonnées
+    }
+
+    Corps {
+        Squelette
+        Organes
+        ADN
+        ParamètresPhysiques
+    }
+
+    Cerveau {
+        Structure
+        Connexions
+        ÉtatsNeuraux
+        Mémoire
+        Traits
+    }
+
+    Conscience {
+        ÉtatActuel
+        Continuité
+        Historique
+    }
+}
