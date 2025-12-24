@@ -1,0 +1,11 @@
+Morphologie {
+    Taille
+    Masse
+    Proportions {
+        Torse
+        Membres
+        Tête
+    }
+    Posture
+    Symétrie
+}
